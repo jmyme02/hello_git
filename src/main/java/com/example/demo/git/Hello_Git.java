@@ -14,8 +14,5 @@ public class Hello_Git {
 
         System.out.println("doxxxxxAfter2");
 
-        //dev2
-        System.out.println("dev2");
-
     }
 }
