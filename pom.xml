@@ -48,6 +48,11 @@
             <artifactId>netty-example</artifactId>
             <version>4.1.56.Final</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-core</artifactId>
+            <version>1.6.3</version>
+        </dependency>
     </dependencies>
 
     <build>
